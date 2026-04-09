@@ -1,4 +1,4 @@
-# 👾 D A M I A N O &nbsp;&nbsp; P U L V I R E N T I &nbsp;&nbsp; 👾
+# 👾 DAMIANO PULVIRENTI 👾
 
 <div align="center">
   
@@ -8,51 +8,22 @@
 
 ---
 
-## 🌈 &nbsp; C O L O R F U L &nbsp; M I N D &nbsp; M A P
+## 🌈 ESPLORA IL MIO MONDO
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-  ╔═══════════╗
-  ║ 🧠 AI/ML ║
-  ╚═══════════╝
-  Keras
-  PyTorch
-  YOLO
-  Gemini
-</td>
-<td align="center" width="200">
-  ╔═══════════╗
-  ║ 🐍 WEB   ║
-  ╚═══════════╝
-  Streamlit
-  FastAPI
-  Flask
-  JavaScript
-</td>
-<td align="center" width="200">
-  ╔═══════════╗
-  ║ 🎮 GAMES ║
-  ╚═══════════╝
-  C
-  Connect4
-  Bingo
-</td>
-<td align="center" width="200">
-  ╔═══════════╗
-  ║ 🤖 BOTS  ║
-  ╚═══════════╝
-  Python
-  Telegram
-  Instagram
-  Automation
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 🧠 AI/ML | 🐍 WEB | 🎮 GAMES | 🤖 BOTS |
+|:---:|:---:|:---:|:---:|
+| Keras | Streamlit | C | Python |
+| PyTorch | FastAPI | Connect4 | Telegram |
+| YOLO | Flask | Bingo | Instagram |
+| Gemini | JavaScript | Game Dev | Automation |
+
+</div>
 
 ---
 
-## 🎨 &nbsp; L A &nbsp; M I A &nbsp; T A V O L O Z Z A &nbsp; T E C N O L O G I C A
+## 🎨 LA MIA TAVOLOZZA TECNOLOGICA
 
 <div align="center">
 
@@ -74,12 +45,12 @@
 
 ---
 
-## 🚀 &nbsp; P R O G E T T I &nbsp; I N &nbsp; V E T R I N A
+## 🚀 PROGETTI IN VETRINA
 
 <div align="center">
 
 | 🔥 Progetto | 📝 Descrizione | 🛠️ Stack |
-|:-----------:|:---------------|:---------|
+|:---:|:---|:---|
 | **🎯 YOLO-Talk** | Object Detection + Conversazione AI in tempo reale | `Python` `YOLO` `Gemini` |
 | **🤖 Tutor AI API** | Assistente AI generico via API Streamlit + Gemini | `Streamlit` `Python` `Gemini` |
 | **📸 Instagram Manager MVP** | Automazione gestione contenuti Instagram | `Python` `Automation` |
@@ -92,82 +63,26 @@
 
 ---
 
-## 🪐 &nbsp; I &nbsp; M I E I &nbsp; A L T R I &nbsp; U N I V E R S I
+## 🪐 I MIEI ALTRI UNIVERSI
 
 <div align="center">
 
 | [![damifts](https://img.shields.io/badge/damifts-AI_%26_ML_Lab-9B59B6?style=for-the-badge&logo=github&logoColor=white&labelColor=8E44AD)](https://github.com/damifts) | [![damits](https://img.shields.io/badge/damits-Game_%26_C_Dev-3498DB?style=for-the-badge&logo=github&logoColor=white&labelColor=2980B9)](https://github.com/damits) |
 |:---:|:---:|
-| **🧪 Laboratorio AI/ML** | **🎲 Game Dev & C** |
+| 🧪 Laboratorio AI/ML | 🎲 Game Dev & C |
 | Keras · PyTorch · YOLO | Connect4 · Bingo · C Projects |
 | Streamlit · Jupyter · Gemini | JavaScript · Algorithmic Games |
 
 </div>
 
 <div align="center">
-  dmnplv (Tu sei qui!)
-  ▲
-  /|
-  / |
-  / |
-  / |
-  / |
-  ▼ ▼ ▼
-  damifts damits (espansione futura...)
-
-</div>
-
----
-
-## 💫 &nbsp; C O S E &nbsp; S P E C I A L I
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
   
-### 🌟 &nbsp; Oggi sto imparando
-```python
-while alive:
-    learn("AI Agents")
-    build("Autonomous Bots")
-    dream("AGI")
-```
-</td> <td align="center" width="33%">
-🎯   Quote preferita
-"The best way to predict
-the future is to invent it."
-— Alan Kay
+<br>
 
-</td> <td align="center" width="33%">
-🎨   Colore del giorno
-https://placehold.co/15x15/FF6B6B/FF6B6B.png #FF6B6B Coral
-https://placehold.co/15x15/4ECDC4/4ECDC4.png #4ECDC4 Mint
-https://placehold.co/15x15/FFE66D/FFE66D.png #FFE66D Yellow
+📍 **Tu sei qui:** `dmnplv` (Hub Principale)
 
-</td> </tr> </table></div>
-📡   C O N N E T T I A M O C I
-<div align="center">
-https://img.shields.io/badge/GitHub-dmnplv-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117
-https://img.shields.io/badge/Email-dmn.plv%2540gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B
-https://img.shields.io/badge/Portfolio-Coming_Soon-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=E65A00
+🔽
 
-</div>
-<div align="center">
-https://github.com/dmnplv/dmnplv/blob/output/github-contribution-grid-snake.svg?color_snake=#FF6B6B&color_dots=#4ECDC4,#FFE66D,#FF6B6B,#45B7D1,#96CEB4
+[`damifts`](https://github.com/damifts) &nbsp;&nbsp;|&nbsp;&nbsp; [`damits`](https://github.com/damits)
 
-</div><div align="center">
-👁️   Visitatori colorati
-https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252Fdmnplv&label=%F0%9F%8C%88%2520VISITATORI%2520COLORATI&labelColor=%2523FF6B6B&countColor=%25234ECDC4&style=flat-square
-
-</div>
-<div align="center">
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   🚀 "Code is poetry written in logic" — Damiano Pulvirenti                  ║
-║                                                                              ║
-║   ⭐ Se ti piace quello che faccio, lascia una stella su qualche repo! ⭐   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
 </div>
